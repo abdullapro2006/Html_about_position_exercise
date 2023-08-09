@@ -1,0 +1,129 @@
+*{
+    background-color: bisque;
+}
+
+
+.first{
+    width: 300px;
+    height: 300px;
+    background-image:  url(ab67616d00001e02bb129f2c138378633588fb80.jpeg);
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    border: 90px solid white;
+    
+  
+}
+.first > h3{
+    position: relative;
+    background-color: white;
+   top: 95%;
+   left: 60px;
+}
+.first > p{
+    position: relative;
+    top: 90%;
+    left: 20%;
+    background-color: white;
+
+}
+
+.first > h4{
+    position: relative;
+    top: 85%;
+    left: 20%;
+    background-color: white;
+}
+.first > a > i{
+    position: relative;
+    top: 79%;
+    left: 30%;
+    background-color: green;
+}
+
+.second{
+  
+    width: 300px;
+    height: 300px;
+    background-image:  url(Lana_Del_Rey_-_Lust_for_Life.png);
+    margin-bottom: 20px;
+    position: absolute;
+    left: 75%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    border: 90px solid white;
+
+  
+}
+.second > h3{
+    position: relative;
+    background-color: white;
+   top: 95%;
+   left: 60px;
+}
+.second > p{
+    position: relative;
+    top: 90%;
+    left: 20%;
+    background-color: white;
+
+}
+
+.second > h4{
+    position: relative;
+    top: 85%;
+    left: 20%;
+    background-color: white;
+}
+.second > a > i{
+    position: relative;
+    top: 79%;
+    left: 30%;
+    background-color: green;
+}
+
+.third{
+  
+    width: 300px;
+    height: 300px;
+    background-image:  url(ab67616d0000b27354e56e10e3c0fdfc12a5b784.jpeg);
+    margin-bottom: 20px;
+    position: absolute;
+    left: 17%;
+    top: 50%;
+    transform: translate(-55%,-50%);
+    border-radius: 10px;
+    border: 90px solid white;
+
+  
+}
+.third > h3{
+    position: relative;
+    background-color: white;
+   top: 95%;
+   left: 60px;
+}
+.third > p{
+    position: relative;
+    top: 90%;
+    left: 20%;
+    background-color: white;
+
+}
+
+.third > h4{
+    position: relative;
+    top: 85%;
+    left: 20%;
+    background-color: white;
+}
+.third > a > i{
+    position: relative;
+    top: 79%;
+    left: 30%;
+    background-color: green;
+    color: green;
+}
